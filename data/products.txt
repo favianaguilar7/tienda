@@ -1,0 +1,6 @@
+1|750100000001|Refresco 600ml|18.5|0
+2|750100000002|Sabritas 45g|15|-1
+3|750100000003|Chocolate|22|0
+4|12345|Producto genérico|10|1
+5|54321|Producto segundo|10|1
+6|1222|perro|100|1

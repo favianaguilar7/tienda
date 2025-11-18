@@ -1,0 +1,5 @@
+{"items":[{"code":"750100000001","name":"Refresco 600ml","price":18.5,"quantity":1}],"total":18.5,"createdAt":"2025-11-18T16:32:30.925Z","loggedAt":"2025-11-18T16:32:31.096Z"}
+{"items":[{"code":"750100000001","name":"Refresco 600ml","price":18.5,"quantity":1}],"total":18.5,"createdAt":"2025-11-18T21:00:15.253Z","loggedAt":"2025-11-18T21:00:15.308Z"}
+{"items":[{"code":"750100000001","name":"Refresco 600ml","price":18.5,"quantity":1}],"total":18.5,"createdAt":"2025-11-18T21:03:19.955Z","loggedAt":"2025-11-18T21:03:20.028Z"}
+{"items":[{"code":"750100000001","name":"Refresco 600ml","price":18.5,"quantity":3},{"code":"750100000002","name":"Sabritas 45g","price":15,"quantity":2}],"total":85.5,"createdAt":"2025-11-18T23:02:58.108Z","loggedAt":"2025-11-18T23:02:58.133Z"}
+{"items":[{"code":"750100000003","name":"Chocolate","price":22,"quantity":1}],"total":22,"createdAt":"2025-11-18T23:28:58.578Z","loggedAt":"2025-11-18T23:28:58.688Z"}
