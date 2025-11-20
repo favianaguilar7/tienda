@@ -1,0 +1,1 @@
+{"items":[{"code":"750100000002","name":"Sabritas 45g","price":15,"quantity":1}],"total":15,"createdAt":"2025-11-20T03:26:28.864Z","loggedAt":"2025-11-20T03:26:28.978Z"}
